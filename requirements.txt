@@ -1,7 +1,4 @@
 fastapi
-uvicorn
-transformers
-torch==2.0.0+cpu
-fugashi
+uvicorn[standard]
+fuzzywuzzy
 python-Levenshtein
-rapidfuzz
