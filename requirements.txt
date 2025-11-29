@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch==2.0.0+cpu
+fugashi
+python-Levenshtein
+rapidfuzz
